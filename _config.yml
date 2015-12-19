@@ -110,20 +110,20 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: minixalpha
+  id: kuangrenwuyong
 
 
 #################################### global configure #######################################
 
 username: kuyun-zhangyang
-baseurl: /StrayBirds
+baseurl: /krwyblog
 markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 狂人勿用博客
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
-disqusname: minixalpha
+disqusname: kuangrenwuyong
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
