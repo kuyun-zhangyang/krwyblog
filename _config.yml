@@ -26,7 +26,7 @@ unpublished:  false
 
 # Conversion
 markdown:     kramdown
-highlighter:  pygments
+highlighter:  rouge
 lsi:          false
 excerpt_separator: "\n\n"
 
@@ -119,7 +119,7 @@ username: kuyun-zhangyang
 baseurl: /krwyblog
 markdown: redcarpet
 safe: false
-highlighter: pygments
+highlighter: rouge
 title: 狂人勿用博客
 description: 不知为不知，学无止境
 theme: kunka
